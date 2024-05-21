@@ -6,3 +6,4 @@ Use the provided data and follow the requirements to develop a model that can ac
 Background:
 In the Applied Data Science Program we had several elective paths to choose from, and I chose to focus on Machine Learning. This was the first project in this category.  
 In this project, I was provided a Jupyter Notebook containing basic instructions and I was responsible for producing all code and insights learned.
+Unfortunately, GreatLearning has asked not to share the data provided, but this process to complete the project is reproducible with similar data.
